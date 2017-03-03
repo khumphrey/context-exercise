@@ -1,0 +1,1 @@
+Start by opening `index.html` in your webpage and then follow the instructions in the list items!!
