@@ -1,1 +1,3 @@
-Start by opening `index.html` in your webpage and then follow the instructions in the list items!!
+## What to do
+- Start by opening `index.html` in your **browser**
+- Then **follow the instructions** seen as ***list*** items!!
